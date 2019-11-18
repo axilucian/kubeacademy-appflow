@@ -6,7 +6,7 @@ theme = "minimal"
 [params]
     author = "VMware"
     description = "Deployed on Kubernetes!"
-    githubUsername = "vmware-tanzu"
+    githubUsername = "vmwarez-tanzu"
     accent = "blue"
     showBorder = true
     backgroundColor = "white"
